@@ -1,4 +1,6 @@
 {
+  // oh-my-posh setup file
+  // should be saved in the the root of the home directory 
   "$schema": "https://raw.githubusercontent.com/JanDeDobbeleer/oh-my-posh/main/themes/schema.json",
   "blocks": [
     {
